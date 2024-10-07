@@ -15,7 +15,7 @@ are stored as nodes inside the trees and each node is a doubly-linked list of or
 * `python setup.py install`
 
 ## Run
-* `runner.py < data/ordersSimple.dat`
+* `runner.py < data/orders600K.dat`
 
 ## Test
 * Single: `python -m unittest test.testPriceTree`
